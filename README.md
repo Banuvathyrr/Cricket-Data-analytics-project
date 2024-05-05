@@ -13,11 +13,11 @@ T20 Cricket data preprocessed using Python (Pandas) and analysed using PowerBI
     f) preprocessed data exported as csv file  
 
 ## Data analysis
-  - Preprocessed data (available in the form of csv file) imported to Power BI
+  - Preprocessed data (available in the form of csv file) imported to Power BI  
 
-    a) removed unnecessary characters or symbols in the column by using extract
-    b) sorted and checked for duplicate rows and removed the duplicate rows
-    c) new column added by implementing condition
-    d) datatype of the columns checked and updated
-    e) columns names checked and updated
-    f) new column added by implementing custom column
+    a) removed unnecessary characters or symbols in the column by using extract  
+    b) sorted and checked for duplicate rows and removed the duplicate rows  
+    c) new column added by implementing condition  
+    d) datatype of the columns checked and updated  
+    e) columns names checked and updated  
+    f) new column added by implementing custom column  
