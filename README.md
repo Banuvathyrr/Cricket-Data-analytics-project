@@ -20,4 +20,8 @@ T20 Cricket data preprocessed using Python (Pandas) and analysed using PowerBI
     c) new column added by implementing condition  
     d) datatype of the columns checked and updated  
     e) columns names checked and updated  
-    f) new column added by implementing custom column  
+    f) new column added by implementing custom column
+
+## Data modelling in Power BI
+  ![image](https://github.com/Banuvathyrr/Cricket-Data-analytics-project/assets/145739539/3d9ed337-1ce1-46db-ab0d-523e70102b76)
+
