@@ -1,7 +1,7 @@
 # Cricket-Data-analytics-project
 T20 Cricket data preprocessed using Python (Pandas) and analysed using PowerBI
 
-## Data preprocessing
+## Data preprocessing (using Python Pandas)
 - Data scraped from ESPN cricketinfo site in the form of json files  
 - Following Data preprocessing steps performed using Pandas :
   
@@ -12,7 +12,7 @@ T20 Cricket data preprocessed using Python (Pandas) and analysed using PowerBI
     e) mapping of data to the newly added column in the dataframe performed  
     f) preprocessed data exported as csv file  
 
-## Data analysis
+## Data analysis (using Power BI)
   - Preprocessed data (available in the form of csv file) imported to Power BI  
 
     a) removed unnecessary characters or symbols in the column by using extract  
