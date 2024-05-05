@@ -12,7 +12,7 @@ T20 Cricket data preprocessed using Python (Pandas) and analysed using PowerBI
     e) mapping of data to the newly added column in the dataframe performed  
     f) preprocessed data exported as csv file  
 
-## Data analysis (using Power BI)
+## Data cleaning (using Power BI)
   - Preprocessed data (available in the form of csv file) imported to Power BI  
 
     a) removed unnecessary characters or symbols in the column by using extract  
