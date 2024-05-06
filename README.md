@@ -25,3 +25,7 @@ T20 Cricket data preprocessed using Python (Pandas) and analysed using PowerBI
 ## Data modelling in Power BI
   ![image](https://github.com/Banuvathyrr/Cricket-Data-analytics-project/assets/145739539/3d9ed337-1ce1-46db-ab0d-523e70102b76)
 
+## DAX Measures 
+    a) Total runs = SUM(fact_bating_summary[runs])  
+    b) Total_Innings_batted = COUNT (fact_bating_summary[match_id])
+
